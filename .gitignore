@@ -1,4 +1,36 @@
-*.pyc
+# Virtual Environments
+venv/
+venv*/
+.venv/
+env/
+.env/
+
+# Environment Variables & Secrets
+.env
+.env.*
+!.env.example
+
+# Vector Database & Persistence
+chroma/
+*.sqlite3
+*.db
+
+# Python cache & build
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Temporary & Secondary Projects
+gobind_rag/
+*.log
+
+# IDE & System Files
+.vscode/
+.idea/
+*.swp
+*.swo
+Thumbs.db
+Desktop.ini
 .DS_Store
-backup
-chroma
