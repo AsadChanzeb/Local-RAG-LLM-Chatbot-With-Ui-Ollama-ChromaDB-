@@ -11,46 +11,21 @@ Ask questions about your uploaded PDF documents with full privacy, real-time tok
 > _Drop your screenshots in the placeholders below or in an `assets/` or `images/` directory._
 
 ### 1. Main Dashboard & Model Selector
-<!-- Replace with your screenshot path, e.g., ![Main Dashboard](assets/dashboard.png) -->
-```
-+--------------------------------------------------------------------------+
-|  [ PLACEHOLDER: Main Dashboard & Model Selector Screenshot ]             |
-|                                                                          |
-|  - Real-time Ollama status indicator (🟢 Connected)                      |
-|  - Multi-model dropdown (Llama 3.2, Mistral, Gemini, Grok)               |
-|  - Quick-start query cards & document manager                            |
-+--------------------------------------------------------------------------+
-```
-*(Insert your Main Dashboard screenshot here: `![Main Dashboard](path/to/screenshot1.png)`)*
+
+<img width="2737" height="1722" alt="ai3" src="https://github.com/user-attachments/assets/cebb226d-a71c-4fbf-ba3a-7ed0590cb27a" />
+
 
 <br>
 
 ### 2. Real-Time Streaming Chat & Citations
-<!-- Replace with your screenshot path, e.g., ![Chat Streaming](assets/chat-stream.png) -->
-```
-+--------------------------------------------------------------------------+
-|  [ PLACEHOLDER: Real-Time Chat & Response Streaming Screenshot ]         |
-|                                                                          |
-|  - Server-Sent Events (SSE) token-by-token streaming                     |
-|  - Generation speed & query timer (e.g. ⚡ 3.2s)                          |
-+--------------------------------------------------------------------------+
-```
-*(Insert your Streaming Chat screenshot here: `![Chat Streaming](path/to/screenshot2.png)`)*
+<img width="3255" height="1720" alt="ai2" src="https://github.com/user-attachments/assets/96380ede-dac1-446a-8046-353f622d6597" />
+
 
 <br>
 
 ### 3. Interactive Source Attribution & Match Confidence
-<!-- Replace with your screenshot path, e.g., ![Source Context](assets/sources.png) -->
-```
-+--------------------------------------------------------------------------+
-|  [ PLACEHOLDER: Source Context Accordion Screenshot ]                    |
-|                                                                          |
-|  - Expandable source cards showing exact page numbers                    |
-|  - Normalized similarity match percentage (e.g. 92% match)               |
-|  - Verified ground-truth excerpt from PDF chunks                         |
-+--------------------------------------------------------------------------+
-```
-*(Insert your Source Context screenshot here: `![Source Context](path/to/screenshot3.png)`)*
+<img width="2705" height="1735" alt="image" src="https://github.com/user-attachments/assets/bec09f34-b7f3-48f2-b9e8-08cf46a150a2" />
+
 
 ---
 
